@@ -18,7 +18,7 @@ cd linux-shell-assignment
 ---
 
 ###  2. Configure Paths
-Each script uses specific directories (like `/home/shourya/backup` or `/home/shourya/downloads`).  
+Each script uses specific directories (like `/home/saurabh/backup` or `/home/saurabh/downloads`).  
 Before running, **update these paths** in the scripts to match your own username or desired directories.
 
 Example:
@@ -45,7 +45,7 @@ Creates a timestamped backup of a specified directory and logs the result.
 
 **Example:**
 ```bash
-./scripts/backup.sh /home/shourya/documents
+./scripts/backup.sh /home/saurabh/documents
 ```
 
 **Log Location:**  
